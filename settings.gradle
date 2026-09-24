@@ -1,0 +1,4 @@
+rootProject.name = 'LabTCP'
+
+include 'server'
+include 'client'
